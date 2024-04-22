@@ -1,4 +1,4 @@
-#!/home/ahmed4s/Documents/Coder/RepoGit/feed/venv/bin/python3
+#!/home/ahmed4s/Documents/Coder/codes/React/A7med/server/venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
